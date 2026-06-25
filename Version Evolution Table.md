@@ -5,7 +5,7 @@
 - V2.1	Switched to ChromaDB	Added persistent storage to prevent re-indexing loss.
 - V2.2	Chunk: 3000/500, k=10	Captured larger data blocks; increased retrieval "depth."
 - V3.1	Added MMR Retrieval	Optimized to pull diverse, non-repetitive snippets.
-- V3.2	Lambda \lambda = 0.75$	Fine-tuned the balance between relevance and diversity.
+- V3.2	Lambda \lambda = 0.75	Fine-tuned the balance between relevance and diversity.
 - V4.1	Metadata & Regex filtering	Forced the system to look only at specified document years.
 - V4.2	+1 Year Temporal Offset	Aligned fiscal data with filing dates to stop cross-year errors.
 
